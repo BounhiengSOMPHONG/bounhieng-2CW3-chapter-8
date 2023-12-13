@@ -14,7 +14,7 @@ class _homeState extends State<home> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: Text('Drawer'),
+        title: Text('Drawer Bounhieng'),
       ),
       drawer: drawerleft(),
       endDrawer: drawerright(),
